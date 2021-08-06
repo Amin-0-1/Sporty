@@ -10,11 +10,6 @@ And then supply the user with all leagues in this sport and when user select a l
 ## Demo
 [![Watch The Demo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=sqsjfcz2LJ8)
 
-## Requirements
-* Xcode 12.2 at least
-* iOS 13+
-* Swift 5
-  
 ## 3<sup>rd</sup> party Libraries: -
 *	ProgressHUD
 *	Alamofire
@@ -24,3 +19,8 @@ And then supply the user with all leagues in this sport and when user select a l
 *	RxSwift
 *	RxCocoa
 *	lottie-ios
+
+## Requirements
+* Xcode 12.2 at least
+* iOS 13+
+* Swift 5
