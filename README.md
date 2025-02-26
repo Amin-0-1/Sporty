@@ -8,7 +8,7 @@ The Sports aim to supply the sports fans with the ability to see the latest news
 And then supply the user with all leagues in this sport and when user select a league then upcoming matches and latest events will be displayed to user  
 
 ## Demo
-[![Watch The Demo](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=sqsjfcz2LJ8)
+https://www.youtube.com/watch?v=sqsjfcz2LJ8
 
 ## 3<sup>rd</sup> party Libraries: -
 *	ProgressHUD
